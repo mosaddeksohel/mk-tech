@@ -1,0 +1,23 @@
+.item{
+    padding: 1.5rem;
+    border:2px solid #f5f5f5 ;
+    background-color: #fffbfb;
+    border-radius: 100%;
+    box-shadow: 1px 1px 2px 1px rgb(180, 178, 178);
+}
+
+.btn{
+    background-color: #644F9C;
+    padding-inline: 30%;
+    border: none;
+    color: aliceblue;
+    padding-block: 9%;
+    border-radius: 10px;
+}
+
+.classItem{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

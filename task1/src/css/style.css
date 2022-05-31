@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 18px;
+    /* font-weight: 600; */
+    font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+    
+}
+
+h4{
+    text-align: left;
+}
